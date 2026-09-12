@@ -15,7 +15,7 @@ The Campus Connect prototype contains three pages:
 
 Users move between the three pages using the navigation links at the top of the website. The active page link is highlighted so users can easily identify the page they are currently viewing.
 
-**Active Page Link:** [Paste your live Campus Connect website link here]
+**Active Page Link:** https://ahimbisevivianpearl-spec.github.io/semantic-html/
 
 ### Semantic HTML Used
 
